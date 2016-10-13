@@ -1,2 +1,9 @@
 # smooth-scroll-jquery
-Play it like a module.
+
+This tiny javascript will help you create a nice scmooth scrolling.
+
+## Installation
+
+Place it to your website.
+Use attribute `data-scroll=` and link to target (almost it's `id="target"`).
+Enjoy a scroll
